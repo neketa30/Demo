@@ -7,6 +7,7 @@ public class Arraylistdemo {
 	public static void main(String[] args) {
 
 //wertyuiop[
+		//ghfghfghfghfgh
 		ArrayList<String> a=new ArrayList<String>();
 		a.add("Java");
 		a.add(1, "Neketa");
